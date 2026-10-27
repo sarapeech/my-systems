@@ -44,6 +44,12 @@ window.SEED = [
    tech:"HTML, CSS, JavaScript + ฐานข้อมูล", users:"นักศึกษา, อาจารย์ผู้สอน", related:"รายวิชาการวิเคราะห์และออกแบบระบบสารสนเทศ", link:A("BEY9FY7rxaieTgvKVVde4R"), icon:"📒", color:3, badge:"", shot:"shots/fieldeval.jpg", use:[]},
   {id:"quiz5", name:"แบบทดสอบท้ายบทที่ 5", desc:"แบบทดสอบออนไลน์จับเวลา การสืบค้นสารสนเทศ 20 ข้อ", cat:"teach", year:"2569", status:"ใช้งานจริง",
    tech:"HTML, CSS, JavaScript", users:"นักศึกษา GESC401", related:"GESC401 การคิดในยุคดิจิทัล", link:A("8eWxPDSyqDTCMcDNvt9M9s"), icon:"📝", color:1, badge:"", shot:"shots/quiz5.jpg", use:[]},
+  {id:"gesc-video", name:"ผลงานนักคิดยุคดิจิทัล", desc:"ระบบส่งลิงก์วีดีโอผลงานรายบท (บทที่ 4–8) ตรวจสถานะ และให้คะแนนพร้อมข้อเสนอแนะ", cat:"teach", year:"2569", status:"ใช้งานจริง",
+   tech:"Google Apps Script, Google Sheets, HTML/CSS/JavaScript", users:"นักศึกษา GESC401 กลุ่ม 04 และ 06, อาจารย์ผู้สอน", related:"GESC401 การคิดในยุคดิจิทัล", link:"", icon:"🎞️", color:4, badge:"NEW", shot:"", use:[]},
+  {id:"scam-buster", name:"Scam Buster: ภารกิจล่าภัยไซเบอร์", desc:"กิจกรรมในชั้นเรียนบทที่ 8 สุ่มสถานการณ์ภัยไซเบอร์ ให้นักศึกษาตอบผ่านมือถือ บันทึกคะแนนลงชีต", cat:"teach", year:"2569", status:"ใช้งานจริง",
+   tech:"Google Apps Script, Google Sheets, HTML/CSS/JavaScript", users:"นักศึกษา GESC401, อาจารย์ผู้สอน", related:"GESC401 การคิดในยุคดิจิทัล บทที่ 8 การป้องกันตนเองในโลกดิจิทัล", link:"", icon:"🛡️", color:5, badge:"HOT", shot:"", use:[]},
+  {id:"gform-quiz", name:"ตัวสร้างแบบทดสอบ Google Forms อัตโนมัติ", desc:"สคริปต์สร้างแบบทดสอบบทที่ 5 (30 ข้อ) พร้อมเฉลยและโหมดตรวจคะแนนอัตโนมัติ", cat:"teach", year:"2569", status:"ใช้งานจริง",
+   tech:"Google Apps Script, Google Forms (Quiz mode)", users:"อาจารย์ผู้สอน, นักศึกษา GESC401", related:"GESC401 การคิดในยุคดิจิทัล บทที่ 5 การสืบค้นสารสนเทศ", link:"", icon:"🧩", color:3, badge:"", shot:"", use:[]},
   {id:"sportsci", name:"แผนโปรเจกต์จำลองบริษัท (วิทยาศาสตร์การกีฬา)", desc:"เว็บแนวทางจัดการเรียนการสอนแบบบริษัทจำลอง", cat:"teach", year:"2569", status:"ใช้งานจริง",
    tech:"HTML, CSS", users:"อาจารย์และนักศึกษา", related:"บริการวิชาการ / การบูรณาการการสอน", link:A("CvBoUDB1mhJMme8SxiyYuQ"), icon:"🏃", color:6, badge:"", shot:"shots/sportsci.jpg", use:[]},
 
